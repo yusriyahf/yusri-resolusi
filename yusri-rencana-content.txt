@@ -1,0 +1,7 @@
+RENCANA KONTEN YUSRI
+-video javascript
+  *ES6
+  *Framework javascript
+-php framework
+-interview
+-vlog
