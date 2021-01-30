@@ -2,7 +2,9 @@ RENCANA KONTEN YUSRI
 -video javascript
   *ES6
   *Framework javascript
+   -vue
 -struktur data dasar
 -php framework
 -interview
 -vlog
+-python
