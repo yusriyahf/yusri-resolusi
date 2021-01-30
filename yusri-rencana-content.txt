@@ -6,6 +6,7 @@ RENCANA KONTEN YUSRI
    -react
 -struktur data dasar
 -php framework
+ -laravel
 -interview
 -vlog
 -python
