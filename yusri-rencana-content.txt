@@ -3,6 +3,7 @@ RENCANA KONTEN YUSRI
   *ES6
   *Framework javascript
    -vue
+   -react
 -struktur data dasar
 -php framework
 -interview
